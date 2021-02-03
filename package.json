@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Oscar Francino <oscar.francino@finabluma.com>",
+  "license": "",
+  "dependencies": {
+    "@theme-ui/presets": "^0.3.5",
+    "dotenv-load": "^2.0.0",
+    "next": "^10.0.6",
+    "next-connect": "^0.9.1",
+    "next-env": "^1.1.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "theme-ui": "^0.3.5"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+  }
+}
